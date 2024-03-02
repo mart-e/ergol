@@ -10,7 +10,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   margin: auto;
-  max-width: 58em;
+  max-width: 60em;
   min-height: 100%;
 
   line-height: 1.4em;
@@ -178,10 +178,12 @@ select {
 @media (prefers-color-scheme: dark) {
   html {
     background-color: #111;
+    background-color: #080808;
   }
 
   body {
     background-color: #222;
+    background-color: #1a1a1f;
     border-color: #111;
     box-shadow: 0px 1px 10px #111;
     color: #ccc;
@@ -198,7 +200,7 @@ select {
 
   h2, a {
     color: #f96;
-    border-color: #f96;
+    border-color: #f967;
   }
 }
 
@@ -212,11 +214,11 @@ select {
   footer nav,
   footer small,
   main {
-    padding: 0 25px;
+    padding: 0 40px;
   }
   #banner {
-    padding-left: calc(25px + 64px);
-    background-position: left 25px center;
+    padding-left: calc(40px + 64px);
+    background-position: left 40px center;
   }
   .highlight {
     border-radius: 6px;
