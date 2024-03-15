@@ -43,7 +43,7 @@ afin d’accéder plus facilement à la couche de symboles.
 
 GNU/Linux : [ergol.xkb_custom][]
 : Copier le pilote dans `xkb/symbols/custom` : <pre>
-    wget https://github.com/Nuclear-Squid/ergol/blob/master/0_7_0/ergol.xkb_custom
+    wget https://github.com/Nuclear-Squid/ergol/raw/main/0_7_0/ergol.xkb_custom
     sudo mv ergol.xkb_custom ${XKB_CONFIG_ROOT:-/usr/share/X11/xkb}/symbols/custom </pre>
 : La disposition de clavier est disponible dans le gestionnaire de préférences du
 bureau sous un nom générique (« custom layout », « disposition personnalisée »,
