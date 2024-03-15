@@ -31,9 +31,10 @@ Ergonomie
 Conservant l’approche AZERTY d’avoir certaines lettres accentuées en direct
 (`é`, `è`, `à`, `ç`), [Bépo][] a manqué de place pour placer toutes les lettres
 et a choisi d’occuper les colonnes excentrées pour des lettres jugées moins
-fréquentes (`m`, `z`, `w`, `ç`). Il en résulte une incompatibilité avec la
-plupart des claviers ergonomiques du marché, qui ne proposent que 6 colonnes de
-touches par main pour respecter le principe [1DFH][].
+fréquentes (`m`, `z`, `w`, `ç`, « les quatre cavaliers de l’auriculaire »). Cela
+le rend quasi incompatible avec la plupart des claviers ergonomiques du marché,
+qui ne proposent que 6 colonnes de touches par main pour respecter le principe
+[1DFH][].
 
 Par ailleurs, la charge des doigts est mal répartie :
 
@@ -48,8 +49,8 @@ Par ailleurs, la charge des doigts est mal répartie :
 
 C’est notamment le cas du `m` : 13e lettre la plus fréquente en français (2.7 %
 de fréquence, soit plus que tous les caractères accentués cumulés), fréquemment
-doublé (0.2 % du temps) et en extension latérale sur l’auriculaire droit. Cela
-favorise grandement les déviations ulnaires, qui sont la principale cause de
+doublé et en extension latérale sur l’auriculaire droit. Cela favorise
+grandement les déviations ulnaires, qui sont la principale cause de
 développement de troubles musculo-squelettiques associés à la saisie au clavier.
 
 Beaucoup de Bépoètes ont recours à des claviers spécifiques, souvent très
