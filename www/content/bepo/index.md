@@ -244,7 +244,7 @@ prix d’une certaine complexité des pilotes de clavier :
 - les pilotes Windows existent en deux versions, l’une « tronquée » et stable,
   l’autre « complète » mais dont le comportement est présenté comme moins
   fiable ;
-- le pilote Linux, théoriquement inclus a XKB, se base sur des définitions de
+- le pilote Linux, théoriquement inclus à XKB, se base sur des définitions de
   touches mortes qu’il faut ajouter manuellement coté utilisateur.
 
 
