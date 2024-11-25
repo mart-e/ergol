@@ -1,4 +1,4 @@
-import { getSupportedChars, analyzeKeyboardLayout } from './layout-analyzer.js';
+import { getSupportedChars, analyzeKeyboardLayout } from '/js/layout-analyzer.js';
 
 window.addEventListener('DOMContentLoaded', () => {
   const inputField = document.querySelector('input');
