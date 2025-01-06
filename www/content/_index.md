@@ -86,6 +86,10 @@ Témoignages
 
 @[fnuttens][]
 
+> Est-ce que ça vaut le coup de passer à Ergol ? Oui, je recommande à tout le monde !
+
+@[lord](https://lord.re/posts/255-ergol-au-an-plus-tard/)
+
 [On parle d’Ergo‑L et d’ergonomie clavier ailleurs][ailleurs]
 — dans la presse, dans des billets de blogs, dans des conférences…
 
